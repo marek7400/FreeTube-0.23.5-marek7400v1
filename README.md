@@ -13,7 +13,7 @@
 <br>
 <br>
 <br>
-FreeTube-0.23.5 beta with MY "Upload subtitles from file" with settings.
+FreeTube-0.23.5 beta with MY "Upload subtitles from file" with settings. Turn ON/OFF subtitles-press X key.
 
 ![v3](images/v3.jpg)
 <br>
